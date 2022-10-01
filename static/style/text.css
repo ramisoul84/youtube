@@ -1,0 +1,46 @@
+p {
+    font-family:satisfy;
+}
+.title 
+{
+    font-weight:bold;
+    font-size:18px;
+    width:300px;
+    line-height:24px;
+    margin-bottom:5px;
+}
+.stat 
+{
+    font-size:14px;
+    color: rgb(96,96,96);
+    margin-top:0px;
+}
+.author 
+{
+    color:rgb(96,96,96);
+    font-size:18px;
+    margin-top:0;
+    color:gray;
+}
+.description
+{
+    font-size:14px;
+    color:rgb(96,96,96);
+    width:300px;
+    line-height:20px;
+}
+.shop{
+    margin-top:50px;
+    font-size:14px;
+    background-color:rgb(277,65,65);
+    color:#ffffff;
+    text-align:center;
+    padding:10px;
+}
+.shop-link{
+    cursor:pointer;
+}
+.shop-link:hover{
+    text-decoration:underline;
+
+}
